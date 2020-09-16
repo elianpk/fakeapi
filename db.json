@@ -5,19 +5,22 @@
         "id": 1,
         "title": "made in abyss",
         "img": "https://miro.medium.com/max/2994/1*c8RaPdK_JmcOO2BPDxxrRA.jpeg",
-        "assistido": false
+        "assistido": false,
+        "descricao": "Made in Abyss é uma série de mangá voltada ao público seinen, escrita e ilustrada por Akihito Tsukushi. A história gira em torno de uma cratera numa ilha perdida, descoberta há cerca de 1900 anos, de origem e profundidade desconhecidas."
       },
       {
         "id": 2,
         "title": "kyoukai no kanata",
         "img": "https://i.ytimg.com/vi/5m3d-_MSMN4/maxresdefault.jpg",
-        "assistido": false
+        "assistido": false,
+        "descricao": "Kyōkai no Kanata é uma série de light novel escrita por Nagomu Torii, com ilustrações de Tomoyo Kamoi. A obra foi premiada com uma menção honrosa na competição do Prémio de Animação de Quioto em 2011 e os três volumes foram publicados pela Kyoto Animation entre junho de 2012 e abril de 2013."
       },
       {
         "id": 3,
         "title": "re zero",
         "img": "https://static.anime21.blog.br/2020/07/CAPA-17.jpg",
-        "assistido": false
+        "assistido": false,
+        "descricao": "Re:Zero kara Hajimeru Isekai Seikatsu, também conhecido como Re:Zero − Starting Life in Another World, é uma série de light novel escrita por Tappei Nagatsuki e ilustrada por Shinichirou Otsuka."
       }
     ] 
 }
