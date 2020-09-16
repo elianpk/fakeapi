@@ -4,17 +4,20 @@
       {
         "id": 1,
         "title": "made in abyss",
-        "img": "https://miro.medium.com/max/2994/1*c8RaPdK_JmcOO2BPDxxrRA.jpeg"
+        "img": "https://miro.medium.com/max/2994/1*c8RaPdK_JmcOO2BPDxxrRA.jpeg",
+        "assistido": false
       },
       {
         "id": 2,
         "title": "kyoukai no kanata",
-        "img": "https://i.ytimg.com/vi/5m3d-_MSMN4/maxresdefault.jpg"
+        "img": "https://i.ytimg.com/vi/5m3d-_MSMN4/maxresdefault.jpg",
+        "assistido": false
       },
       {
         "id": 3,
         "title": "re zero",
-        "img": "https://static.anime21.blog.br/2020/07/CAPA-17.jpg"
+        "img": "https://static.anime21.blog.br/2020/07/CAPA-17.jpg",
+        "assistido": false
       }
     ] 
 }
