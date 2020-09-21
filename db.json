@@ -21,6 +21,69 @@
         "img": "https://static.anime21.blog.br/2020/07/CAPA-17.jpg",
         "assistido": false,
         "descricao": "Re:Zero kara Hajimeru Isekai Seikatsu, também conhecido como Re:Zero − Starting Life in Another World, é uma série de light novel escrita por Tappei Nagatsuki e ilustrada por Shinichirou Otsuka."
+      },
+      {
+        "id": 4,
+        "title": "k project",
+        "img": "https://pm1.narvii.com/6248/f539cdc78dc91d993abe22f431638db9b8efb160_hq.jpg",
+        "assistido": true,
+        "descricao": "K é uma série de anime de 2012 criada pelo estúdio de animação GoHands e GoRA, um grupo composto por sete autores anônimos conhecidos como Kōhei Azano, Tatsuki Miyazawa, Yukako Kabei, Yashichiro Takahashi, Hideyuki Furuhashi, Hideyuki Furuhashi, Suzu Suzuki e Rei Rairaku."
+      },
+      {
+        "id": 5,
+        "title": "the god of high school",
+        "img": "https://www.animeunited.com.br/wp-content/uploads/2020/07/The-God-of-High-School-Cover-e1593792572250.jpg",
+        "assistido": true,
+        "descricao": "The God of High School é um webtoon sul-coreano escrito e ilustrado por Yongje Park. Ele foi serializado na plataforma webtoon da Naver Naver Webtoon desde 8 de abril de 2011, com os capítulos individuais coletados e publicados pela Imageframe sob seu rótulo Root em um volume em abril de 2020."
+      },
+      {
+        "id": 6,
+        "title": "Boku no Hero Academia",
+        "img": "https://www.einerd.com.br/wp-content/uploads/2019/10/My-Hero-Academia-capa.jpg",
+        "assistido": false,
+        "descricao": "Boku no Hero Academia, também conhecido como My Hero Academia no ocidente, é uma série de mangá escrita e ilustrada por Kōhei Horikoshi. Os capítulos do mangá são publicados na revista Weekly Shōnen Jump desde julho de 2014, sendo compilados em volumes formato tankōbon pela editora Shueisha."
+      },
+      {
+        "id": 7,
+        "title": "that time i got reincarnated as a slime",
+        "img": "https://vigilianerd.com.br/wp-content/uploads/2020/07/That-time-i-got-reincarnated-as-a-slime-vigilia-nerd.jpg",
+        "assistido": false,
+        "descricao": "That Time I Got Reencarnated as a Slime, também conhecido como TenSura ou Slime Isekai, é uma novela japonesa de fantasia, escrita por Fuse e ilustrada por Mitz Vah. Foi serializado on-line entre 2013 e 2016 no site de publicação de romances Shōsetsuka ni Narō, gerado pelo usuário."
+      },
+      {
+        "id": 8,
+        "title": "hunter x hunter 2011",
+        "img": "https://criticalhits.com.br/wp-content/uploads/2020/06/hunter-x-hunter-lista-de-episodios-fillers.jpg",
+        "assistido": false,
+        "descricao": "Hunter × Hunter é uma série de televisão de anime exibida no período de 2011 a 2014, baseada no mangá Hunter × Hunter de Yoshihiro Togashi. A história começa com um garoto chamado Gon Freecss, que um dia descobre que o pai que ele pensava estar morto, está de fato vivo e bem. "
+      },
+      {
+        "id": 9,
+        "title": "Kimetsu no Yaiba(Demon Slayer)",
+        "img": "https://puloduplo.com.br/wp-content/uploads/2020/03/banner-do-anime-demon-slayer-740x414-1.jpg",
+        "assistido": false,
+        "descricao": "Kimetsu no Yaiba, é uma série japonesa de mangá shōnen escrita e ilustrada por Koyoharu Gotōge. O mangá é serializado desde 15 de fevereiro de 2016 na revista semanal Weekly Shōnen Jump, com seus capítulos sendo reunidos, até o momento, em 18 volumes tankōbon pela editora Shueisha."
+      },
+      {
+        "id": 10,
+        "title": "Bleach",
+        "img": "https://img1.ak.crunchyroll.com/i/spire2/52edb7a843abacb4ff0f642c8eda14401325114125_full.jpg",
+        "assistido": false,
+        "descricao": "BLEACH conta a história do Ichigo Kurosaki. Num dia ele encontra a Rukia e, a partir daí, descobre que sua vida mudou para sempre."
+      },
+      {
+        "id": 11,
+        "title": "Bungo Stray Dogs",
+        "img": "https://img1.ak.crunchyroll.com/i/spire2/c33592b4651e7cccf7ec66244e0f8ee81555537663_full.jpg",
+        "assistido": false,
+        "descricao": "Expulso do orfanato e prestes a morrer de fome, Atsushi Nakajima conhece alguns homens bastante estranhos. Um deles, Osamu Dazai, é um suicida tentando se afogar em plena luz do dia. Outro, chamado Doppo Kunikida, fica parado, folheando nervosamente seu bloco de anotações. Ambos são membros da Agência de Detetives Armados, e se dizem responsáveis por solucionar casos que nem a polícia e o exército ousam tocar."
+      },
+      {
+        "id": 12,
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "img": "https://img1.ak.crunchyroll.com/i/spire4/fabddf1040abbd18948b9aacc18011b31475523493_full.jpg",
+        "assistido": false,
+        "descricao": "O descaso com as leis da alquimia tomou dois dos membros de Edward Elric e deixou a alma de Alphonse presa a uma armadura. Para recuperar o que perderam, os irmãos procuram a Pedra Filosofal. O exército corrupto, os homúnculos, alquimistas estrangeiros... Inimigos e aliados alterarão o curso dos irmãos Elric, mas nada conseguirá mudar seu propósito ou romper o elo entre os dois."
       }
     ] 
 }
